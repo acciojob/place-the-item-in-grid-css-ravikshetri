@@ -1,27 +1,22 @@
 
 /* Your CSS Code here. */
-
 .holder{
   display: grid;
-  grid-template-columns: repeat(2,100px);
+  grid-template-row: repeat(2,100px);
  }
  .item{
   background-color: green;
   padding: 1;
  }
-
  .item-1{
   background-color: blue;
  }
-
  .item-2{
   background-color: green;
  }
-
  .item-3{
   background-color: greenyellow;
  }
-
  .item-4{
   background-color: black;
 	 color: white;

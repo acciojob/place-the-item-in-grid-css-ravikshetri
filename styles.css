@@ -1,7 +1,9 @@
 
 /* Your CSS Code here. */
 .holder{
+	width: 500px;
   display: grid;
+	border: 2px solid blue;
   grid-template-columns: repeat(2,100px);
  }
  .item{

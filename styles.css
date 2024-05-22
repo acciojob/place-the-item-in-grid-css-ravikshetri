@@ -3,7 +3,7 @@
 
 .holder{
   display: grid;
-  grid-template-columns: repeat(2,200px);
+  grid-template-columns: repeat(2,100px);
  }
  .item{
   background-color: green;
@@ -24,4 +24,5 @@
 
  .item-4{
   background-color: black;
+	 color: white;
  }
